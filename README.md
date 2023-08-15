@@ -45,5 +45,3 @@
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tora-o)](https://github.com/LordDashMe/github-contribution-stats/)
-
-![](https://spotify-recently-played-readme.vercel.app/api?user=31ui5lxx6xasfihpkic4d7vcavlq&count=5&width=1000)
