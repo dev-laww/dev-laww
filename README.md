@@ -1,5 +1,5 @@
-
-***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dev-laww?label=Follow%20Me&style=social)](https://github.com/dev-laww)
+***Feel free to contact me. I am always here ...
+*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dev-laww?label=Follow%20Me&style=social)](https://github.com/dev-laww)
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=dev-laww&style=for-the-badge)
@@ -7,14 +7,19 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/738982726392217611/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notlaww_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tora-o/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rorensuuu@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lawrenceallen.tech@gmail.com)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Lawrence Allen</strong></samp></h2>
 <!-- <h3 align='center'><strong><a href="" target="_blank">Portfolio🌐</a></strong></h3> -->
 
-🎓 A college student studying computer science and currently exploring various domains within the field. 💻 I have a passion for programming and enjoy delving into different frameworks, tools, and languages to expand my knowledge and skills. Whether it's web development, data analytics, or other exciting areas, I love the thrill of exploring new technologies and finding creative solutions. Let's embark on this journey of exploration together and see where it takes us! 🚀
+🎓 A college student studying computer science and currently exploring various domains within the field. 💻 I have a
+passion for programming and enjoy delving into different frameworks, tools, and languages to expand my knowledge and
+skills. Whether it's web development, data analytics, or other exciting areas, I love the thrill of exploring new
+technologies and finding creative solutions. Let's embark on this journey of exploration together and see where it takes
+us! 🚀
 
 💻 **Languages, frameworks and stacks I use:** 🛠️<br>
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
