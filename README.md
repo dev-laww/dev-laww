@@ -1,11 +1,13 @@
 
-***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/tora-o)
+***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dev-laww?label=Follow%20Me&style=social)](https://github.com/dev-laww)
 <br>
 <br>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/738982726392217611/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notlaww_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tora-o/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rorensuuu@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=dev-laww&style=for-the-badge)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Lawrence Allen</strong></samp></h2>
 <!-- <h3 align='center'><strong><a href="" target="_blank">Portfolio🌐</a></strong></h3> -->
@@ -44,4 +46,9 @@
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dev-laww)](https://github.com/LordDashMe/github-contribution-stats/)
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-contribution-stats.vercel.app/api/?username=dev-laww"/></td>
+    <td valign="top"><img align="center" src="https://streak-stats.demolab.com/?user=dev-laww"/></td>
+  </tr>
+</table>
