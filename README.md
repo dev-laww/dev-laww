@@ -48,7 +48,7 @@
 
 <table style="border: none;">
   <tr>
-    <td valign="top"><img align="center" src="https://github-contribution-stats.vercel.app/api/?username=dev-laww"/></td>
-    <td valign="top"><img align="center" src="https://streak-stats.demolab.com/?user=dev-laww"/></td>
+    <td><img src="https://github-contribution-stats.vercel.app/api/?username=dev-laww"/></td>
+    <td><img src="https://streak-stats.demolab.com/?user=dev-laww"/></td>
   </tr>
 </table>
