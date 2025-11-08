@@ -1,5 +1,5 @@
-***Feel free to contact me. I am always here ...
-*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dev-laww?label=Follow%20Me&style=social)](https://github.com/dev-laww)
+***Feel free to contact me. I am always here ...*** 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dev-laww?label=Follow%20Me&style=social)](https://github.com/dev-laww)
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=dev-laww&style=for-the-badge)
@@ -12,11 +12,11 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Lawrence Allen</strong></samp></h2>
 <!-- <h3 align='center'><strong><a href="" target="_blank">Portfolio🌐</a></strong></h3> -->
 
-🎓 A college student studying computer science and currently exploring various domains within the field. 💻 I have a
-passion for programming and enjoy delving into different frameworks, tools, and languages to expand my knowledge and
-skills. Whether it's web development, data analytics, or other exciting areas, I love the thrill of exploring new
-technologies and finding creative solutions. Let's embark on this journey of exploration together and see where it takes
-us! 🚀
+I am a Full Stack Software Engineer with a strong background in computer science and a passion for building impactful and reliable software solutions. I have experience working across a wide range of technologies and frameworks, allowing me to adapt quickly to new tools and environments.
+
+My expertise spans web development with .NET, Python, and Node.js, as well as game development, where I combine creativity with technical problem-solving to bring ideas to life. I’m driven by a continuous desire to learn, improve, and explore emerging technologies across different domains.
+
+📌 Take a look at my pinned repositories to see some of the projects I’ve worked on — each reflecting my commitment to writing clean, maintainable code and delivering quality results.
 
 💻 **Languages, frameworks and stacks I use:** 🛠️<br>
 
